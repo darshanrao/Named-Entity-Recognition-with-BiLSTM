@@ -16,7 +16,7 @@ You can install these packages using `pip`:
 
 ```bash
 pip install torch torchtext numpy sklearn
-
+```
 
 ## Dataset Format
 
@@ -49,7 +49,7 @@ Run the provided script to train the BiLSTM model. This process involves reading
 
 ```bash
 python task1.py
-
+```
 
 ### Model Evaluation
 
@@ -83,7 +83,7 @@ Run the provided script to train the BiLSTM model. This process involves reading
 
 ```bash
 python task2.py
-
+```
 
 ### Model Evaluation
 
